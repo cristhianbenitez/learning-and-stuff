@@ -31,6 +31,7 @@ These are just essentials questions to ask a client before starting.
 
 5. Is there any existing branding or content we can use ?
     - are there brand guideline? Where will we get the copy and the images for the site? You may get this content based on an existing site or brand guidelines, but new sites may not have it yet.
+
 6. When and where will users access the product ?
       - Consider user environment and context - what device are they on? Where are they when they visit ?.
 
