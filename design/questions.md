@@ -1,9 +1,19 @@
-# Questions to ask as a designer
+# **Questions to ask as a designer**
 
 > "By repeating the 'why' five times, the nature of the problem as well as its solution becomes clear"
 >> Sakichi Toyoda, founder of Toyota and the five 5 Whys' technique
 
-## 12 essential questions to ask before starting any UX project
+## **Fundamental questions for design by Don Norman**
+
+1. What I want to accomplish?
+2. What are the alternative actions sequences?
+3. What action can I do now ?
+4. How do I do it ?
+5. What happened ?
+6. What does it mean ?
+7. Is this okay ? Have I accomplished my goal ?
+
+## **12 essential questions to ask before starting any UX project**
 
 These are just essentials questions to ask a client before starting.
 
@@ -21,7 +31,7 @@ These are just essentials questions to ask a client before starting.
 
 5. Is there any existing branding or content we can use ?
     - are there brand guideline? Where will we get the copy and the images for the site? You may get this content based on an existing site or brand guidelines, but new sites may not have it yet.
-6. When and where will users acces the product ?
+6. When and where will users access the product ?
       - Consider user environment and context - what device are they on? Where are they when they visit ?.
 
 7. Why are we trying to solve this problem?
