@@ -11,13 +11,13 @@ In this repo I'm trying to save things I find important about things I learn on 
 
 ## Frontend
 
-[CSS](./frontend/css.md)
-[Html](./frontend/html.md)
-[JavaScript](./frontend/javascript.md)
+- [CSS](./frontend/css.md)
+- [Html](./frontend/html.md)
+- [JavaScript](./frontend/javascript.md)
 
 ## Design
 
-[Fundamentals](design/fundamentals.md)
-[Laws of UX](design/laws-of-ux.md)
+- [Fundamentals](design/fundamentals.md)
+- [Laws of UX](design/laws-of-ux.md)
 
 ## Quotes
