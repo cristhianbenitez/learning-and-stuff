@@ -8,6 +8,7 @@ In this repo I'm trying to save things I find important about things I learn on 
 - [Design](./design/)
 - [Quotes](./quotes/)
 - [Book Notes](./book-notes/)
+- [Freelancing](./freelancing/)
 
 ## Frontend
 
@@ -21,3 +22,8 @@ In this repo I'm trying to save things I find important about things I learn on 
 - [Laws of UX](design/laws-of-ux.md)
 
 ## Quotes
+
+## Freelancing
+
+- [Questions and Answers](freelancing/questions-and-answers.md)
+- [Client Interactions Rules](freelancing/client-interaction.md)
